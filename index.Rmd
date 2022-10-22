@@ -1,8 +1,8 @@
 ---
 title: "Gov50 Milestone 1"
 author: "Tahj Johnson"
-description: "Thoughts"
-  
+description: Thoughts on Project
+output: pdf_document
 ---
 
 ## Project Thoughts
