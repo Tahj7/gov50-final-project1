@@ -1,9 +1,8 @@
 ---
-title: Gov50 Milestone 1
-author: Tahj Johnson
-description: Thoughts
-  distill::distill_article:
-    self_contained: false
+title: "Gov50 Milestone 1"
+author: "Tahj Johnson"
+description: "Thoughts"
+  
 ---
 
 ## Project Thoughts
